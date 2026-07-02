@@ -1,0 +1,1 @@
+alert("Welcome to Progressive Centre High School");
